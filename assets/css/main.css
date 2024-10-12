@@ -676,7 +676,8 @@ h6 {
 .footer .copyright {
   padding-top: 25px;
   padding-bottom: 25px;
-  border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  border-top: 1px solid c
+  olor-mix(in srgb, var(--default-color), transparent 90%);
 }
 
 .footer .copyright p {
@@ -1273,7 +1274,7 @@ section,
 }
 
 .call-to-action img {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   display: block;
